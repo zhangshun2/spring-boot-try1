@@ -15,6 +15,7 @@ public class TestCreate {
 
     @Test
     public void test() {
+        //there something had changed
         System.out.println(userMapper.selectAll());
     }
 }
